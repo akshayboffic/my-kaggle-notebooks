@@ -6,9 +6,9 @@ Welcome to my GitHub repository dedicated to hosting Jupyter Notebooks created u
 
 The repository is organized as follows:
 
-• datasets/: Contains links or details about the Kaggle datasets used in the notebooks.  
-• notebooks/: Jupyter Notebooks for data analysis, visualization, and machine learning.  
-• resources/: Supporting files, if any, such as images, data preprocessing scripts, or reference documents.  
+• [Datasets](my-kaggle-notebooks/datasets/) : Contains links or details about the Kaggle datasets used in the notebooks.  
+• [Notebooks](my-kaggle-notebooks/notebooks/) : Jupyter Notebooks for data analysis, visualization, and machine learning.  
+• [Resources](my-kaggle-notebooks/resources/) : Supporting files, if any, such as images, data preprocessing scripts, or reference documents.  
 
 ## **📌 Notebooks Included**
 1. **Exploratory Data Analysis (EDA)**
