@@ -6,9 +6,9 @@ Welcome to my GitHub repository dedicated to hosting Jupyter Notebooks created u
 
 The repository is organized as follows:
 
-• datasets/: Contains links or details about the Kaggle datasets used in the notebooks.
-• notebooks/: Jupyter Notebooks for data analysis, visualization, and machine learning.
-• resources/: Supporting files, if any, such as images, data preprocessing scripts, or reference documents.
+• datasets/: Contains links or details about the Kaggle datasets used in the notebooks.  
+• notebooks/: Jupyter Notebooks for data analysis, visualization, and machine learning.  
+• resources/: Supporting files, if any, such as images, data preprocessing scripts, or reference documents.  
 
 ## **📌 Notebooks Included**
 1. **Exploratory Data Analysis (EDA)**
@@ -40,16 +40,16 @@ This repository uses datasets from Kaggle. You can find the specific dataset lin
 
 ## **🛠️ Tools & Libraries Used**
 
-• Python
-• Pandas
-• NumPy
-• Matplotlib / Seaborn for visualization
-• Scikit-learn for Machine Learning
-• TensorFlow / PyTorch for Deep Learning
-• NLTK / spaCy / Hugging Face for Natural Language Processing
-
+• Python  
+• Pandas  
+• NumPy  
+• Matplotlib / Seaborn for visualization  
+• Scikit-learn for Machine Learning  
+• TensorFlow / PyTorch for Deep Learning  
+• NLTK / spaCy / Hugging Face for Natural Language Processing  
+  
 # **📖 About Me**
-I’m passionate about data science and strive to learn by exploring real-world datasets. This repository is part of my journey to share and improve my skills in machine learning, deep learning, and natural language processing.
+I’m passionate about data science and strive to learn by exploring real-world datasets. This repository is part of my journey to share and improve my skills in machine learning, deep learning, and natural language processing.  
 
-# **🤝 Contributing**
-Feel free to fork this repository, raise issues, or suggest improvements. Contributions are welcome!
+# **🤝 Contributing**  
+Feel free to fork this repository, raise issues, or suggest improvements. Contributions are welcome!  
